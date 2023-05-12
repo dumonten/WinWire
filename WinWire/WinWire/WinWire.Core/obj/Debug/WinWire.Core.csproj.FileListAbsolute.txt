@@ -1,0 +1,9 @@
+D:\Course work\WinWire\WinWire\WinWire.Core\bin\Debug\WinWire.Core.dll.config
+D:\Course work\WinWire\WinWire\WinWire.Core\bin\Debug\WinWire.Core.dll
+D:\Course work\WinWire\WinWire\WinWire.Core\bin\Debug\WinWire.Core.pdb
+D:\Course work\WinWire\WinWire\WinWire.Core\obj\Debug\WinWire.Core.csproj.AssemblyReference.cache
+D:\Course work\WinWire\WinWire\WinWire.Core\obj\Debug\WinWire.Core.Properties.Resources.resources
+D:\Course work\WinWire\WinWire\WinWire.Core\obj\Debug\WinWire.Core.csproj.GenerateResource.cache
+D:\Course work\WinWire\WinWire\WinWire.Core\obj\Debug\WinWire.Core.csproj.CoreCompileInputs.cache
+D:\Course work\WinWire\WinWire\WinWire.Core\obj\Debug\WinWire.Core.dll
+D:\Course work\WinWire\WinWire\WinWire.Core\obj\Debug\WinWire.Core.pdb
